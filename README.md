@@ -11,7 +11,7 @@ The paper presents YOLOSR, a novel deep learning model that enhances the detecti
 ## Citation
 Please cite our work using the following format if it helps or inspires your research:
 
-[Details will be provided upon paper acceptance]
+Details will be provided upon paper acceptance.
 
 ## Model Architecture
 YOLOSR utilizes YOLOv8-small for weapon detection, augmented with an EDSR-based Super Resolution branch during training. This dual-branch architecture enhances feature representation of small objects, crucial for detecting weapons in surveillance videos.
@@ -36,7 +36,6 @@ Tables, graphs, and charts will be included upon paper acceptance.
 Installation instructions will be provided, including steps for setting up the environment and dependencies necessary to run YOLOSR.
 
 ## Usage
-
 This section will be updated once the code is released.
 
 ## Contributing
@@ -46,10 +45,9 @@ Contributions to improve the model or extend its capabilities are welcome.
 Details on the licensing of the software will be specified upon code release.
 
 ## Acknowledgments
-This code is built on the [YOLOv8 GitHub repository](https://github.com/username/YOLOv8-repo). We thank the authors for sharing the codes.
+This code is built on the [YOLOv8 GitHub repository](https://github.com/ultralytics/ultralytics). We thank the authors for sharing the codes.
 
 ## Contact
-
 For inquiries related to the paper or the forthcoming code, please contact:
 
 - Daniele Berardini, [d.berardini@pm.univpm.it]
