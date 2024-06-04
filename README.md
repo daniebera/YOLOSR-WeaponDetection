@@ -20,6 +20,7 @@ Diagrams and flowcharts will be included upon paper acceptance.
 
 ## Datasets
 Our model was validated on the custom-built WeaponSense dataset, showcasing various indoor scenarios with subjects holding weapons. Further details on dataset preparation and preprocessing will be shared alongside the code release.
+To use our WeaponSense dataset for research purposes, please fill and return the following [DataRequestForm](https://univpm-my.sharepoint.com/:b:/g/personal/p018352_staff_univpm_it/EeDprfkt-BFHpsa8dFfc_H4BspcuH0JA_4sNzbKFa7g7NQ?e=N4K3qM).
 
 ## Results
 YOLOSR demonstrates superior performance in weapon detection accuracy compared to existing methods, achieving significant improvements in Average Precision (AP50) without increasing the computational load on edge devices like NVIDIA Jetson Nano.
